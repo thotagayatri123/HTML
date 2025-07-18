@@ -1,0 +1,200 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Playwrite+VN+Guides&display=swap');
+
+:root{
+  --primaryColour : #0e26c2ea;
+  --secondaryColour : rgba( 232,219,219,0.699)
+}
+
+h1{
+  color: var(--primaryColour);
+}
+
+h2{
+  background-color: var(--secondaryColour);
+}
+
+p{
+color: var(--primaryColour);
+}
+
+
+
+
+/*h1{
+
+    color: green;
+}
+
+h2{
+
+    color: green;
+}
+
+p{
+  
+    color: blueviolet;
+}
+
+
+li{
+
+    color: burlywood;
+}
+
+
+.red{
+
+    color: red;
+}
+
+.blue{
+
+    color: blue;
+}
+
+
+h4,h6,p{
+
+    color: lawngreen;
+}
+
+
+
+*{
+    color: darkmagenta;
+}
+
+h1{
+ 
+      /*colour * /
+     * / ctrl + /
+       color :white;
+
+    background-color: black;
+
+}
+  
+     body{
+         background-color: black;
+     }
+        
+        
+    
+     /* *{
+       color:white;
+       }
+
+
+       body{
+       background-color:black;
+    } */
+     /* set image as background */
+
+     /* Bordes */
+      
+
+
+
+   /* *{
+        background-color: white;
+    }
+      h1{
+  
+  border: 2px solid red;
+} */
+
+
+
+/* Margins */
+
+/*h1{
+    border: 10px double blue;
+    padding: 50px 100px 150px 250px;
+    margin: 50px 100px 150px 250px;
+
+} */
+
+/*.cd{
+  background-color: blueviolet;
+  color: white;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  border: 5px solid bisque;
+  box-sizing: content-box;
+
+}
+
+/*Tw = 200+ 20 +20 +5 +5 = 250 */
+/* TH = 200+ 20 +20 +5 +5 = 250 */
+
+/*.bb{
+  background-color: bisque;
+  color: white;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  border: 5px solid blueviolet;
+  box-sizing: content-box;
+
+}
+
+
+/* Fount 
+
+  body{
+    font-family: "Manufacturing Consent", system-ui;
+  }
+    */
+
+  /* css position 
+
+
+  img{
+    position: static;
+    top: 50px;
+  }
+
+  /*img{
+    position: relative;
+    top: 50px;
+  }
+
+
+  img{
+    position: fixed;
+    top: 200px;
+    bottom: 500px;
+    left: 500px;
+
+  }
+
+
+.cd{
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+/*.cd h1{
+  background-color: brown;
+  margin: 10px;
+}
+
+/* visibles */
+
+
+
+
+ /*flexbox */
+
+ /* 
+  Practice Absolute and sticky
+  Practice grid with example
+  */
+
+
+
